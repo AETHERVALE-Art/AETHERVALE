@@ -377,5 +377,4 @@ Beyond its mountains are more stories.
 
 Beyond its forests are undiscovered places.
 
-And beyond the glowing village lies an entire digital universe waiting to awaken.# AETHERVALE
-AETHERVALE is an AI-native NFT project built around the emerging culture of artificial intelligence, digital ownership, immersive storytelling, and the metaverse.
+And beyond the glowing village lies an entire digital universe waiting to awaken.
